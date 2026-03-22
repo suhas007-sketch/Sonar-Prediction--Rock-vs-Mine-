@@ -1,13 +1,13 @@
-# 🚀 Sonar Signal Classification (Rock vs Mine)
+# Sonar Signal Classification (Rock vs Mine)
 
-## 📌 Project Overview
+## Project Overview
 This project builds a **Machine Learning model** to classify underwater objects as either **Rock (R)** or **Mine (M)** using sonar signal data.
 
 The model learns patterns from sonar signal reflections at different frequencies and predicts the type of object.
 
 ---
 
-## 📊 Dataset Information
+## Dataset Information
 - Total Columns: **61**
   - **60 Features** → Sonar signal reflections at different frequencies  
   - **1 Label** → Object type (`R` = Rock, `M` = Mine)  
@@ -15,7 +15,7 @@ The model learns patterns from sonar signal reflections at different frequencies
 
 ---
 
-## 🧠 Machine Learning Approach
+## Machine Learning Approach
 - Type: **Supervised Learning (Classification)**
 - Algorithm Used: **Logistic Regression**
 
@@ -35,19 +35,19 @@ The model learns patterns from sonar signal reflections at different frequencies
 
 ---
 
-## 📈 Results
+## Results
 - **Training Accuracy:** 83.4%  
 - **Testing Accuracy:** 76.2%  
 
 ---
 
-## 📊 Visualization
+## Visualization
 - Bar graph comparing **Train vs Test Accuracy**
 - (Optional) Confusion Matrix for performance analysis  
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python  
 - NumPy  
 - Pandas  
@@ -56,7 +56,7 @@ The model learns patterns from sonar signal reflections at different frequencies
 
 ---
 
-## ▶️ How to Run
+## How to Run
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/suhas007-sketch/Sonar-Prediction--Rock-vs-Mine-.git
