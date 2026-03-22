@@ -21,7 +21,7 @@ The model learns patterns from sonar signal reflections at different frequencies
 
 ---
 
-## ⚙️ Steps Performed
+## Steps Performed
 1. Data Loading using Pandas  
 2. Data Preprocessing  
 3. Splitting data into:
